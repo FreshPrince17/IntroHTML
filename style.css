@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: teal;
+  color: white;
+}
+
+.header{
+  color:greenyellow
+}
+#trash {
+  color: red
+}
+/*
+div {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
